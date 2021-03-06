@@ -4,6 +4,7 @@ title: Henrik tester Hugo
 theme: "ananke"
 
 
+publishDir: "docs"
 DefaultContentLanguage: "en"
 SectionPagesMenu: "main"
 Paginated: 3 # this is set low for demonstrating with dummy content. Set to a higher number
