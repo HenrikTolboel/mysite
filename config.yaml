@@ -10,6 +10,9 @@ Paginated: 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics: ""
 enableRobotsTXT: true
 
+taxonomies:
+  category: categories
+  tag: tags
 
 languages:
   en:
