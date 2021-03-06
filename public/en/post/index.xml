@@ -1,40 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>my root page on My blog</title>
-    <link>http://example.org/</link>
-    <description>Recent content in my root page on My blog</description>
+    <title>Articles on My blog</title>
+    <link>http://example.org/en/post/</link>
+    <description>Recent content in Articles on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 13:38:54 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>3</title>
-      <link>http://example.org/posts/3/</link>
-      <pubDate>Sat, 06 Mar 2021 13:20:33 +0100</pubDate>
-      
-      <guid>http://example.org/posts/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>http://example.org/posts/2/</link>
-      <pubDate>Sat, 06 Mar 2021 11:56:58 +0100</pubDate>
-      
-      <guid>http://example.org/posts/2/</guid>
-      <description>2 </description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sat, 06 Mar 2021 10:57:32 +0100</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>This is my first post It is about testing HUGO
-init </description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="http://example.org/en/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>http://example.org/en/post/chapter-6/</link>
@@ -89,26 +61,6 @@ init </description>
       <guid>http://example.org/en/post/chapter-1/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://example.org/en/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/en/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
-    </item>
-    
-    <item>
-      <title>ContactFR</title>
-      <link>http://example.org/fr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/fr/contact/</guid>
-      <description>This is the French contact page. This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>
