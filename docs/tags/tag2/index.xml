@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag2 on My blog</title>
-    <link>http://example.org/tags/tag2/</link>
+    <link>https://henriktolboel.github.io/mysite/tags/tag2/</link>
     <description>Recent content in tag2 on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 11:56:58 +0100</lastBuildDate><atom:link href="http://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 11:56:58 +0100</lastBuildDate><atom:link href="https://henriktolboel.github.io/mysite/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2</title>
-      <link>http://example.org/posts/2/</link>
+      <link>https://henriktolboel.github.io/mysite/posts/2/</link>
       <pubDate>Sat, 06 Mar 2021 11:56:58 +0100</pubDate>
       
-      <guid>http://example.org/posts/2/</guid>
+      <guid>https://henriktolboel.github.io/mysite/posts/2/</guid>
       <description>2 </description>
     </item>
     

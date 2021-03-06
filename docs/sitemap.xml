@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://example.org/en/sitemap.xml</loc>
+    <loc>https://henriktolboel.github.io/mysite/en/sitemap.xml</loc>
     
       <lastmod>2021-03-06T13:20:33+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://example.org/fr/sitemap.xml</loc>
+    <loc>https://henriktolboel.github.io/mysite/fr/sitemap.xml</loc>
     
       <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     
