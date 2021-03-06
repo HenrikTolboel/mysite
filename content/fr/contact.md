@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: ContactFR
 featured_image: "images/notebook.jpg"
 omit_header_text: true
 description: Laissez-nous un message!

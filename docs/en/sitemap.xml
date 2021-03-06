@@ -20,83 +20,14 @@
   </url>
   
   <url>
-    <loc>https://henriktolboel.github.io/mysite/posts/3/</loc>
-    <lastmod>2021-03-06T13:20:33+01:00</lastmod>
+    <loc>https://henriktolboel.github.io/mysite/posts/my-first-post/</loc>
+    <lastmod>2021-03-06T10:57:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://henriktolboel.github.io/mysite/categories/cat1/</loc>
-    <lastmod>2021-03-06T13:20:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://henriktolboel.github.io/mysite/categories/</loc>
-    <lastmod>2021-03-06T13:20:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://henriktolboel.github.io/mysite/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://henriktolboel.github.io/mysite/categories/"
-                />
   </url>
   
   <url>
     <loc>https://henriktolboel.github.io/mysite/posts/</loc>
-    <lastmod>2021-03-06T13:20:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://henriktolboel.github.io/mysite/tags/tag1/</loc>
-    <lastmod>2021-03-06T13:20:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://henriktolboel.github.io/mysite/tags/</loc>
-    <lastmod>2021-03-06T13:20:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://henriktolboel.github.io/mysite/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://henriktolboel.github.io/mysite/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://henriktolboel.github.io/mysite/posts/2/</loc>
-    <lastmod>2021-03-06T11:56:58+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://henriktolboel.github.io/mysite/tags/tag2/</loc>
-    <lastmod>2021-03-06T11:56:58+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://henriktolboel.github.io/mysite/posts/my-first-post/</loc>
     <lastmod>2021-03-06T10:57:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -148,6 +79,23 @@
   </url>
   
   <url>
+    <loc>https://henriktolboel.github.io/mysite/tags/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://henriktolboel.github.io/mysite/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://henriktolboel.github.io/mysite/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://henriktolboel.github.io/mysite/en/post/chapter-3/</loc>
     <lastmod>2017-04-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -185,6 +133,22 @@
     <loc>https://henriktolboel.github.io/mysite/fr/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://henriktolboel.github.io/mysite/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://henriktolboel.github.io/mysite/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://henriktolboel.github.io/mysite/categories/"
+                />
   </url>
   
   <url>
